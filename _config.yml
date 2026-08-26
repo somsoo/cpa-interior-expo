@@ -1,0 +1,8 @@
+﻿title: "건축 박람회 및 인테리어 정보센터"
+description: "최신 건축 박람회 일정, 코리아빌드 사전등록 혜택, 전원주택 및 리모델링 정보를 제공합니다."
+url: "https://interior.enjoy-onepage.com"
+theme: minima
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
